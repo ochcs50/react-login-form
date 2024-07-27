@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-login-form/static/css/main.24d130b7.css",
+    "main.js": "/react-login-form/static/js/main.651b3ffb.js",
+    "static/js/453.0b207fb3.chunk.js": "/react-login-form/static/js/453.0b207fb3.chunk.js",
+    "static/media/beautiful-outdoor-view-with-umbrella.jpg": "/react-login-form/static/media/beautiful-outdoor-view-with-umbrella.947b041f7ec98086a93c.jpg",
+    "index.html": "/react-login-form/index.html",
+    "main.24d130b7.css.map": "/react-login-form/static/css/main.24d130b7.css.map",
+    "main.651b3ffb.js.map": "/react-login-form/static/js/main.651b3ffb.js.map",
+    "453.0b207fb3.chunk.js.map": "/react-login-form/static/js/453.0b207fb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24d130b7.css",
+    "static/js/main.651b3ffb.js"
+  ]
+}
